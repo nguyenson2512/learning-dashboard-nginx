@@ -1,0 +1,14 @@
+# Nginx config is source-controlled, nothing to ignore usually
+
+# Docker-related
+docker-compose.override.yml
+
+# local env
+.env
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
